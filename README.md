@@ -12,7 +12,7 @@ Open the Tableau file `StocksPricePredictionSentiment.twbx`
 
  Tableau Reader may be needed in order to view the final visualization UI. The link to this free software may be found here https://www.tableau.com/products/reader/download
  
- Should the user encounter any issues while opening the package, an alternative location for the end visualization may be found here (albeit with limited functionality)
+ Should the user encounter any issues while opening the package, an alternative location for the end visualization may be found here (albeit with limited functionality - please enable full screen to view the visualization as intended)
  https://public.tableau.com/app/profile/ayman.saeed/viz/StocksPricePredictionSentiment/StockSentimentDashboard?publish=yes
 
 ### Steps to recreate:
