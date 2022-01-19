@@ -1,4 +1,4 @@
-# Predict Sentiment of Stocks Referenced on Reddit
+# Predict the Sentiment of Stocks Referenced on Reddit Comment Threads
 Project to scrape Reddit forums, predict sentiment and classify comments. Predict stock price direction based on stock mentions and related clusters.  Visualize results with Tableau.
 
 ### Background
